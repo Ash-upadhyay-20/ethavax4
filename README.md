@@ -2,11 +2,6 @@
 
 This is a Solidity smart contract that implements a custom ERC-20 token called "DegenToken". It is deployed on the Ethereum Fuji testnet and can be interacted with using Metamask or any other Ethereum wallet.
 
-## Smart Contract Details
-
-- Contract Address: [CONTRACT_ADDRESS]
-- Contract ABI: [CONTRACT_ABI]
-
 ## Functionality
 
 The DegenToken contract supports the following functions:
